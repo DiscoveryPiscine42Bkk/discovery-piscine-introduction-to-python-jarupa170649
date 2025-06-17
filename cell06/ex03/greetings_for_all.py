@@ -4,8 +4,7 @@ def greetings(name="noble stranger"):
     else:
         print("Error! It was not a name.")
 
-# Test calls as requested
-greetings('Alexandra')
-greetings('Wil')
+greetings('Kylian')
+greetings('Mbappe')
 greetings()
 greetings(42)
